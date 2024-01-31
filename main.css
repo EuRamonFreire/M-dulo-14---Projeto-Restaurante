@@ -20,3 +20,8 @@ body {
 .navbar-brand {
     font-family: pacifico, cursive;
 }
+
+.navbar-toggler {
+    background-color: #ffeae0;
+}
+
